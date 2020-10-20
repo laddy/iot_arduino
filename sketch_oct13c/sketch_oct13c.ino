@@ -1,3 +1,6 @@
+/*
+ * 水量計、LCD、水温計、LED
+ */
 #include "Wire.h"
 #include "rgb_lcd.h"
 #include "Seeed_MCP9600.h"
